@@ -1,0 +1,88 @@
+body{
+    background-color: darkgrey;
+}
+#cuerpo{
+    width: 1000px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+}
+header{
+    background-color: darkblue;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: center;
+}
+#titulo{
+    background-color: antiquewhite;
+    width: 100px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -100px;
+    
+}
+#espaciobtn{
+    margin-top: 30px;
+    background-color: aqua;
+    width: 1000px;
+    height: 50px;
+}
+#btn{
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    padding-right: 20px;
+    background-color: burlywood;
+    margin-right: 10px;
+    transition: 0.8s;
+}
+#btn:hover{
+    width: 100px;
+    height: 35px;
+    transition: 0.8s;
+}
+#linkbtn{
+    text-decoration: none;
+    color: black;
+}
+#articulo{
+    background-color: aliceblue;
+    width: 200px;
+    height: 270px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    transition: 0.8s;
+}
+#articulo:hover{
+    width: 300px;
+    height: 370px;
+    transition: 0.8s;
+}
+#nombreart, #precioart{
+    margin-left: 5px;
+}
+#imagenes{
+    margin-left: 10px;
+    width : 150px; 
+    height : 150px;
+    transition: 0.8s;
+}
+#imagenes:hover{
+    width: 250px;
+    height: 250px;
+    transition: 0.8s;
+}
