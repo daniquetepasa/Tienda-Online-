@@ -36,9 +36,18 @@
     margin-bottom: 15px;
     background-color: rgb(49, 49, 49);
 }
+#divbus{
+    width: 400px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 0.068);
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
 #card{
     color: white;
     margin-top: 10px;
     margin-left: 20px;
     display: inline-block;
+    box-shadow: 20px, 20px, 20px, 20px;
 }
